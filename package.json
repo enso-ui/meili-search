@@ -1,6 +1,6 @@
 {
     "name": "@enso-ui/meili-search",
-    "version": "3.0.0",
+    "version": "3.1.0",
     "description": "MeiliSearch package",
     "main": "src/bulma/pages/meili-search/Index.vue",
     "repository": {
