@@ -1,28 +1,28 @@
 {
-    "name": "@enso-ui/meili-search",
-    "version": "3.2.0",
-    "description": "MeiliSearch package",
-    "main": "src/bulma/pages/meili-search/Index.vue",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/enso-ui/meili-search.git"
-    },
-    "keywords": [
-        "meili-search",
-        "vue"
-    ],
-    "author": "Adrian Ocneanu <aocneanu@gmail.com>",
-    "license": "SEE LICENSE IN LICENSE",
-    "bugs": {
-        "url": "https://github.com/enso-ui/meili-search/issues"
-    },
-    "homepage": "https://github.com/enso-ui/meili-search#readme",
-    "dependencies": {
-        "@enso-ui/forms": "^4.0.0",
-        "@enso-ui/ui": "^7.0.0",
-        "@fortawesome/fontawesome-svg-core": "^7.2.0",
-        "@fortawesome/free-solid-svg-icons": "^7.2.0",
-        "@fortawesome/vue-fontawesome": "3.1.3",
-        "vue": "^3.0"
-    }
+  "name": "@enso-ui/meili-search",
+  "version": "3.2.0",
+  "description": "MeiliSearch package",
+  "main": "src/bulma/pages/meili-search/Index.vue",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enso-ui/meili-search.git"
+  },
+  "keywords": [
+    "meili-search",
+    "vue"
+  ],
+  "author": "Adrian Ocneanu <aocneanu@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/enso-ui/meili-search/issues"
+  },
+  "homepage": "https://github.com/enso-ui/meili-search#readme",
+  "dependencies": {
+    "@enso-ui/forms": "^4.1.0",
+    "@enso-ui/ui": "^7.1.0",
+    "@fortawesome/fontawesome-svg-core": "^7.2.0",
+    "@fortawesome/free-solid-svg-icons": "^7.2.0",
+    "@fortawesome/vue-fontawesome": "3.1.3",
+    "vue": "^3.0"
+  }
 }
