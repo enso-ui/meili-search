@@ -1,2 +1,3 @@
-###  enso-ui - meilisearch
-Coming soon
+# meili-search
+
+See LICENSE.
