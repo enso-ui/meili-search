@@ -1,8 +1,8 @@
 {
   "name": "@enso-ui/meili-search",
   "version": "3.2.3",
-  "description": "MeiliSearch package",
-  "main": "src/bulma/pages/meili-search/Index.vue",
+  "description": "Meili Search integration settings pages for Enso UI",
+  "main": "src/bulma/pages/integrations/settings/Index.vue",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/enso-ui/meili-search.git"
