@@ -63,6 +63,12 @@ Page:
 - [`@enso-ui/forms`](https://docs.laravel-enso.com/frontend/forms.html) [↗](https://github.com/enso-ui/forms)
 - [`@enso-ui/ui`](https://docs.laravel-enso.com/frontend/ui.html) [↗](https://github.com/enso-ui/ui)
 
+## Contributions
+
+are welcome. Pull requests are great, but issues are good too.
+
+Thank you to all the people who already contributed to Enso!
+
 ## License
 
 Proprietary. See [LICENSE](https://github.com/enso-ui/meili-search/blob/main/LICENSE).
